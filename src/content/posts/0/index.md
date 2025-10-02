@@ -4,7 +4,7 @@ published: 2025-10-02
 description: ''
 image: "./cover.png"
 tags: ["Sparse Connections"]
-category: ''
+category: "Info & Thoughts"
 draft: false 
 lang: ''
 ---
