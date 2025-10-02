@@ -1,9 +1,3 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# Building AMI (Agile Machine Intelligence) For Truth and Love ⚔️🥀
 
-::github{repo="saicaca/fuwari"}
-
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+**I write a lot during my researches, there are usually hundreds of detailed notes involved for any project of mine, it helps me to think more precisely, so I figured I may as well starting to share more of my intermediate thoughts before the final paper and repo on GitHub, because not only it can force me to consolidates my thoughts, but also it may help some like minded fellow researchers in some ways (or just maybe the other way around :), it’s a win-win thing to do so why not?**
