@@ -1,4 +1,4 @@
-# Building AMI (Agile Machine Intelligence) For Truth and Love ⚔️🥀
+## Building AMI (Agile Machine Intelligence) for Truth and Love ⚔️🥀
 
 ### [Link to all Research Articles](https://mrforexample.github.io/Path-to-AMI/)
 

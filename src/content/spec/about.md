@@ -1,4 +1,4 @@
-# Building AMI (Agile Machine Intelligence) For Truth and Love ⚔️🥀
+## Building AMI (Agile Machine Intelligence) for Truth and Love ⚔️🥀
 
 🧐I started because I realized there are usually hundreds of detailed notes involved for any R&D project of mine just sit in my knowledge database doesn't really doing anything
 
