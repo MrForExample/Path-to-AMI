@@ -1,5 +1,5 @@
 ---
-title: the_phoenix_of_neural_networks_2025-10-02_0
+title: The Phoenix of Neural Networks: Training Sparse Networks from Scratch
 published: 2025-10-02
 description: ''
 image: ''
