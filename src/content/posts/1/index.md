@@ -1,5 +1,5 @@
 ---
-title: "Equilibrium beats Flow"
+title: "Equilibrium beats Flow: Better Way to Train Diffusion Model"
 published: 2025-10-11
 description: ''
 image: "./cover.png"
