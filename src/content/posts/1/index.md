@@ -54,10 +54,10 @@ From now now on, when trying diffusion model, use Equilibrium Matching (EqM) to 
 **Unique properties of Equilibrium Matching that are not supported by traditional diffusion/flow models:**
 
 - **Partially Noised Image Denoising:** By learning an equilibrium dynamic, Equilibrium Matching can directly start with and denoise a partially noised image.
-	<img src="image_7.png" alt="drawing" width="400"/>
+	![](image_7.png)
 
 - **Out-of-Distribution Detection:** Can perform out-of-distribution (OOD) detection using energy value, in-distribution (ID) samples typically have lower energies than OOD samples.
-	<img src="image_8.png" alt="drawing" width="400"/>
+	![](image_8.png)
 
 - **Composition:** Naturally supports the composition of multiple models by adding energy landscapes together (corresponding to adding the gradients of each model).
-	<img src="image_9.png" alt="drawing" width="800"/>
+	![](image_9.png)
