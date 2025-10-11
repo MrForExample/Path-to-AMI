@@ -11,7 +11,7 @@ lang: ''
 
 ### Key Takeaways
 
-From now now on, when trying diffusion model, use Equilibrium Matching (EqM) to learn the equilibrium (static) gradient of an implicit energy landscape instead of using Flow Matching learns non-equilibrium velocity field that varies over time
+From now on, when trying diffusion model, use Equilibrium Matching (EqM) to learn the equilibrium (static) gradient of an implicit energy landscape instead of using Flow Matching learns non-equilibrium velocity field that varies over time
 
    <video controls autoplay loop src="https://github.com/user-attachments/assets/597807a0-7c25-4a23-b573-baf0f0796c1d"></video>
 
