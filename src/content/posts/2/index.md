@@ -98,9 +98,9 @@ Tables below shown that every single training stage contributes to the final res
 
 ![](image_9.png)
 
-What’s the next most exciting research directions for BitNet to evolve?
+What are the next most exciting research directions for BitNet to evolve?
 To build 1-bit sparse networks with only 2 bits {-1, 0} or {0, 1}?
-To deploy LLMs on edge and mobile devices.
+To deploy LLMs on edge and mobile devices?
 Or create specific hardware just for 1-bit LLMs to replace the use of GPU and boost efficiency by 100x?
 
 **In any case, make sure to get excited as we entering The Era of 1-bit AI.**
