@@ -4,7 +4,7 @@ published: 2025-11-01
 description: ''
 image: "./cover.png"
 tags: ["Diffusion & Energy-based Model", "Encoder-Decoder"]
-category: "Papers"
+category: "Paper"
 draft: false 
 lang: ''
 ---
@@ -16,7 +16,7 @@ We introduce DC-SSDAE, a novel autoencoder framework for efficient high-resoluti
 Entire codebase is available at: <br>
 <https://github.com/MrForExample/DC_SSDAE>
 
-Experimental results is available at: <br>
+Experimental results are available at: <br>
 <https://huggingface.co/MrForExample/DC-SSDAE>
 
 ![](show.webp)
